@@ -1,0 +1,224 @@
+{
+    "q1": {
+      "id": "q1",
+      "question": "What year were soccer rules codified?",
+      "answers": [
+        "1963",
+        "1863",
+        "1853",
+        "1873"
+      ],
+      "correctAnswer": "1863"
+    },
+    "q2": {
+      "id": "q2",
+      "question": "Which team won the 1994 FIFA World Cup?",
+      "answers": [
+        "Argentina",
+        "Mexico",
+        "Brasil",
+        "Francia"
+      ],
+      "correctAnswer": "Brasil"
+    },
+    "q3": {
+        "id": "q3",
+        "question": "How many panels are there on a traditional soccer ball?",
+        "answers": [
+          "32",
+          "30",
+          "22",
+          "28"
+        ],
+        "correctAnswer": "32"
+      },
+      "q4": {
+        "id": "q4",
+        "question": "Who was the first English player to win league titles in four countries?",
+        "answers": [
+          "Wayne Rooney",
+          "David Beckham",
+          "Steven Gerrard",
+          "Frank Lampard"
+        ],
+        "correctAnswer": "David Beckham"
+      },
+      "q5": {
+        "id": "q5",
+        "question": "What other team competes against Real Madrid in “The Classic”?",
+        "answers": [
+          "Atlético",
+          "Mallorca",
+          "Valencia",
+          "Barcelona"
+        ],
+        "correctAnswer": "Barcelona"
+      },
+      "q6": {
+        "id": "q6",
+        "question": "What soccer player holds the world record for most career goals by a keeper?",
+        "answers": [
+          "Cristiano Ronaldo",
+          "Lionel Messi",
+          "Rogério Ceni",
+          "Harry Kane"
+        ],
+        "correctAnswer": "Rogério Ceni"
+      },
+      "q7": {
+        "id": "q7",
+        "question": "What is the record for red cards given in a single soccer game?",
+        "answers": [
+          "36",
+          "24",
+          "34",
+          "28"
+        ],
+        "correctAnswer": "36"
+      },
+      "q8": {
+        "id": "q8",
+        "question": "Which two countries went to war partially over a soccer match??",
+        "answers": [
+          "El Salvador and Honduras",
+          "Francia and Spain",
+          "Argentina and Uruguay",
+          "Mexico and Colombia"
+        ],
+        "correctAnswer": "El Salvador and Honduras"
+      },
+      "q9": {
+        "id": "q9",
+        "question": "According to the official FIFA rulebook, how long can a goalkeeper hold the ball?",
+        "answers": [
+          "10 seconds",
+          "7 seconds",
+          "6 seconds",
+          "8 seconds"
+        ],
+        "correctAnswer": "6 seconds"
+      },
+      "q10": {
+        "id": "q10",
+        "question": "Who kicked the longest goal in soccer history?",
+        "answers": [
+          "David Beckham",
+          "Cristiano Ronaldo",
+          "Lionel Messi",
+          "Asmir Begovic"
+        ],
+        "correctAnswer": "Asmir Begovic"
+      },
+      "q11": {
+        "id": "q11",
+        "question": "Which of these star soccer players has never played for Real Madrid?",
+        "answers": [
+          "David Beckham",
+          "Zinedine Zidane",
+          "Lionel Messi",
+          "Robinho"
+        ],
+        "correctAnswer": "Lionel Messi"
+      },
+      "q12": {
+        "id": "q12",
+        "question": "Anfield is the home of which English Premier League club?",
+        "answers": [
+          "Manchester United",
+          "Manchester City",
+          "Everton",
+          "Liverpool"
+        ],
+        "correctAnswer": "Liverpool"
+      },
+      "q13": {
+        "id": "q13",
+        "question": "Why did the Indian national team withdraw from the FIFA World Cup competition in 1950?",
+        "answers": [
+          "Insufficient practice and disagreements over team selection",
+          "As a political protest",
+          "Because they could not play barefoot",
+          "Because turbans were not allowed"
+        ],
+        "correctAnswer": "Insufficient practice and disagreements over team selection"
+      },
+      "q14": {
+        "id": "q14",
+        "question": "In the MLS, in what city does the team Chivas USA play?",
+        "answers": [
+          "Buffalo, New York",
+          "Baltimore, Maryland",
+          "Carson, California", 
+          "Miami, Florida"
+        ],
+        "correctAnswer": "Carson, California"
+      },
+      "q15": {
+        "id": "q15",
+        "question": "What are the home colors of the FC Barcelona soccer uniform?",
+        "answers": [
+          "Orange and White",
+          "Black and White", 
+          "Blue and Red",
+          "Yellow and Blue"
+        ],
+        "correctAnswer": "Blue and Red"
+      },
+      "q16": {
+        "id": "q16",
+        "question": "Which country has won the most FIFA World Cups?",
+        "answers": [
+          "Brazil",
+          "Germany",
+          "Argentina",
+          "Italy"
+        ],
+        "correctAnswer": "Brazil"
+      },
+      "q17": {
+        "id": "q17",
+        "question": "Who is the all-time leading scorer in the UEFA Champions League?",
+        "answers": [
+          "Cristiano Ronaldo",
+          "Lionel Messi",
+          "Robert Lewandowski",
+          "Raul"
+        ],
+        "correctAnswer": "Cristiano Ronaldo"
+      },
+      "q18": {
+        "id": "q18",
+        "question": "In which year did the United States host the FIFA World Cup?",
+        "answers": [
+          "1994",
+          "1986",
+          "2002",
+          "2010"
+        ],
+        "correctAnswer": "1994"
+      },
+      "q19": {
+        "id": "q19",
+        "question": "Which club has won the most English Premier League titles?",
+        "answers": [
+          "Liverpool",
+          "Manchester United",
+          "Chelsea",
+          "Arsenal"
+        ],
+        "correctAnswer": "Manchester United"
+      },
+      "q20": {
+        "id": "q20",
+        "question": "Which of these players has never played for Manchester United?",
+        "answers": [
+          "Bobby Charlton",
+          "Ryan Giggs",
+          "Mark Hughes",
+          "Bobby Moore"
+        ],
+        "correctAnswer": "Bobby Moore"
+      }
+
+
+}
